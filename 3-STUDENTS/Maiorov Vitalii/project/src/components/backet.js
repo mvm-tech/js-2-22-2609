@@ -11,7 +11,7 @@
 //         });
 //     });
 // }, 300);
-
+//let basket = {меняем на export default}
 export default  {
     items: [],
     shown: false,

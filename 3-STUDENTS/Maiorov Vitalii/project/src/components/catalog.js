@@ -23,7 +23,7 @@ function createItemTemplate(item) {
 </div>`
 }
 
-
+//let catalog {} change to export default {}
 export default {
     container: null,
     url: 'https://raw.githubusercontent.com/kellolo/static/master/JSON/catalog.json',
